@@ -1,0 +1,57 @@
+Variable,Description,Domain
+per101,Foreign Special Relationships: Positive,External Relations
+per102,Foreign Special Relationships: Negative,External Relations
+per103,Anti-Imperialism,External Relations
+per104,Military: Positive,External Relations
+per105,Military: Negative,External Relations
+per106,Peace,External Relations
+per107,Internationalism: Positive,External Relations
+per108,European Community/Union: Positive,External Relations
+per109,Internationalism: Negative,External Relations
+per110,European Community/Union: Negative,External Relations
+per201,Freedom and Human Rights,Freedom and Democracy
+per202,Democracy,Freedom and Democracy
+per203,Constitutionalism: Positive,Freedom and Democracy
+per204,Constitutionalism: Negative,Freedom and Democracy
+per301,Decentralization,Political System
+per302,Centralisation,Political System
+per303,Governmental and Administrative Efficiency,Political System
+per304,Political Corruption,Political System
+per305,Political Authority,Political System
+per401,Free Market Economy,Economy
+per402,Incentives: Positive,Economy
+per403,Market Regulation,Economy
+per404,Economic Planning,Economy
+per405,Corporatism/Mixed Economy,Economy
+per406,Protectionism: Positive,Economy
+per407,Protectionism: Negative,Economy
+per408,Economic Goals,Economy
+per409,Keynesian Demand Management,Economy
+per410,Economic Growth: Positive,Economy
+per411,Technology and Infrastructure: Positive,Economy
+per412,Controlled Economy,Economy
+per413,Nationalisation,Economy
+per414,Economic Orthodoxy,Economy
+per415,Marxist Analysis,Economy
+per416,Anti-Growth Economy: Positive,Economy
+per501,Environmental Protection,Welfare and Quality of Life
+per502,Culture: Positive,Welfare and Quality of Life
+per503,Equality: Positive,Welfare and Quality of Life
+per504,Welfare State Expansion,Welfare and Quality of Life
+per505,Welfare State Limitation,Welfare and Quality of Life
+per506,Education Expansion,Welfare and Quality of Life
+per507,Education Limitation,Welfare and Quality of Life
+per601,National Way of Life: Positive,Fabric of Society
+per602,National Way of Life: Negative,Fabric of Society
+per603,Traditional Morality: Positive,Fabric of Society
+per604,Traditional Morality: Negative,Fabric of Society
+per605,Law and Order: Positive,Fabric of Society
+per606,Civic Mindedness: Positive,Fabric of Society
+per607,Multiculturalism: Positive,Fabric of Society
+per608,Multiculturalism: Negative,Fabric of Society
+per701,Labour Groups: Positive,Social Groups
+per702,Labour Groups: Negative,Social Groups
+per703,Agriculture and Farmers: Positive,Social Groups
+per704,Middle Class and Professional Groups,Social Groups
+per705,Underprivileged Minority Groups,Social Groups
+per706,Non-economic Demographic Groups,Social Groups
