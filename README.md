@@ -1,3 +1,2 @@
-This repository contains the work for a Master’s thesis investigating political polarization in Portugal, with a particular focus on the rise of Chega. The project analyzes the language used in Portuguese parliamentary debates to quantify ideological divergence over time.
-Research Question:
-How has the rise of Chega affected political polarization in the Portuguese Parliament?
+Political polarization has become a central concern in Portugal as new parties reshape the parliamentary landscape. This thesis examines how political polarization has evolved since 2011 and its association with the rise of the radical-right party Chega. The analysis is based on a combination of the ideological scores derived from electoral program, an ensemble of Large Language Models classifying interventions in parliament as polarized or non-polarized, and a nonverbal reaction network built from shouts, applause and laughter.
+The results show widening ideological distances and an increase in affective polarization after 2021, with Chega acting both as an authoritarian-right outlier and the main target of parliamentary hostility.
